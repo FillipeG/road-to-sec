@@ -16,8 +16,14 @@ Bem-vindo(a)! Este repositório é dedicado ao registro da minha jornada prátic
 ## 🏆 Registros Práticos & Write-ups
 
 ### 🟢 PortSwigger — Web Security Academy
-
 - [x] **Apprentice Level — Server-side Vulnerabilities (52/52 Labs)**
+
+### 🔴 TryHackMe
+- [ ] **Pre Security Path**
+- [ ] **SOC Level 1 Path**
+
+### 🐳 Docker
+- [ ] **Curso Completo de Docker**
 
 ---
 
